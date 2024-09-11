@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 4: buur"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "pqmzKWS5cJB_kQ8Xuvxi_nZKkDKz3_2A2_7vCaHNKI5dg93KQq5EQH86IZpmxPg3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
