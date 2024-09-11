@@ -1,0 +1,4 @@
+- tab: "Opdracht_3"
+  testcases:
+    - expression: 'print("Hello world!")'
+      return: 'Hello world!'

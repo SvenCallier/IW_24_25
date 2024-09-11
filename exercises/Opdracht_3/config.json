@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "en": "Echo function",
+      "nl": "Echofunctie"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "9KzuYFUkh44nCheII_y-yHT8bUYp73Naa4wG3gb4xidYrfU9YQNMeisy7ex9QPEH",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
