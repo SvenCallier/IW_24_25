@@ -6,6 +6,6 @@
     - stdin: "15"
 
       stdout: "De cirkel met straal 3.2 heeft een diameter van 30.0.\nDe cirkel met straal 3.2 heeft een omtrek van 94.2.\nDe cirkel met straal 3.2 heeft een oppervlakte van 706.5."
-     - stdin: "123"
+    - stdin: "123"
 
       stdout: "De cirkel met straal 3.2 heeft een diameter van 246.0.\nDe cirkel met straal 3.2 heeft een omtrek van 772.44.\nDe cirkel met straal 3.2 heeft een oppervlakte van 47505.060000000005."
