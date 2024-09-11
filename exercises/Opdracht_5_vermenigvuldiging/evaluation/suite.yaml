@@ -4,3 +4,11 @@
 
              10
       stdout: "50"
+    - stdin: -5
+
+             3
+      stdout: "-15"
+    - stdin: 12
+
+             0
+      stdout: "0"
