@@ -1,4 +1,4 @@
 - tab: "Opdracht_3"
   testcases:
     - arguments: ["Victor", "4Na", "Yana"]
-      stdout: "Ik ben Victor en zit in 4Na van campus Portus.\nYana zit naast mij tijdens de les informatica."
+      stdout: "Ik ben Victor en zit in 4Na van campus Portus. Yana zit naast mij tijdens de les informatica."
