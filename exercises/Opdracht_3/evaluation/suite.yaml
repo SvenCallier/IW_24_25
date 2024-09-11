@@ -1,4 +1,3 @@
 - tab: "Opdracht_3"
   testcases:
-    - expression:
-      return: 'Hello world!'
+    - stdout: "Hello world"
