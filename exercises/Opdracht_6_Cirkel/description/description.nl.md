@@ -11,6 +11,8 @@ Python moet je (met de onderstaande tekst) de diameter, de omtrek en de oppervla
 Wat is de straal van de cirkel? *3.2*
 
 
-De cirkel met straal 3.2 heeft een diameter van 6.4.\n
-De cirkel met straal 3.2 heeft een omtrek van 20.096000000000004.\n
-De cirkel met straal 3.2 heeft een oppervlakte van 32.153600000000004.\n
+De cirkel met straal 3.2 heeft een diameter van 6.4.
+
+De cirkel met straal 3.2 heeft een omtrek van 20.096000000000004.
+
+De cirkel met straal 3.2 heeft een oppervlakte van 32.153600000000004.
