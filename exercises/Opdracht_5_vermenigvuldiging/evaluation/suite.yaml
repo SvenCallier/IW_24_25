@@ -3,4 +3,4 @@
     - stdin: "5"
 
              "10"
-      stdout: "50"
+      stdout: 50
