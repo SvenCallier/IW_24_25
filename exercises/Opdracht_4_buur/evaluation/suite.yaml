@@ -1,6 +1,8 @@
 - tab: "Opdracht_3"
   testcases:
-    - stdin: Victor\n
-             4Na\n
+    - stdin: Victor
+
+             4Na
+             
              Yana
       stdout: "Ik ben Victor en zit in 4Na van campus Portus. Yana zit naast mij tijdens de les informatica."
