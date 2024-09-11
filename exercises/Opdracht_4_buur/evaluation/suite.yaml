@@ -2,7 +2,7 @@
   testcases:
     - stdin: Victor
 
-             4Na
-             
              Yana
+
+             4ba
       stdout: "Ik ben Victor en zit in 4Na van campus Portus. Yana zit naast mij tijdens de les informatica."
