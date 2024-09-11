@@ -14,8 +14,11 @@ Ik ben ... en zit in ... van campus Portus. ... zit naast mij tijdens de les inf
 ## Voorbeeld
 
 Hoe heet jij? *Victor*
+
 In welke klas zit jij? *6Da*
+
 Wie is jouw buurman/-vrouw? *Yana*
 
 'Ik ben Victor en zit in 4Na van campus Portus.'
+
 'Yana zit naast mij tijdens de les informatica.'
