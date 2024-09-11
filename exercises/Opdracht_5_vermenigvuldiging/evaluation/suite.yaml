@@ -1,6 +1,6 @@
 - tab: "Opdracht_5"
   testcases:
-    - arguments: "5"
-    
-                 "10"
-      stdout: "50"
+    - arguments: 5
+
+                 10
+      stdout: 50
