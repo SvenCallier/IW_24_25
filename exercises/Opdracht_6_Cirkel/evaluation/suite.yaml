@@ -1,0 +1,4 @@
+- tab: "Opdracht_5"
+  testcases:
+    - stdin: 3,2
+      stdout: "De cirkel met straal 3.2 heeft een diameter van 6.4.\nDe cirkel met straal 3.2 heeft een omtrek van 20.096000000000004.\nDe cirkel met straal 3.2 heeft een oppervlakte van 32.153600000000004."
