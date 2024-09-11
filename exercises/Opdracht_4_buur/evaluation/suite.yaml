@@ -6,3 +6,9 @@
     
              4Na
       stdout: "Ik ben Victor en zit in 4Na van campus Portus.\nYana zit naast mij tijdens de les informatica."
+     - stdin: Alain
+    
+             Jozef 
+    
+             6Da
+      stdout: "Ik ben Alain en zit in 6Da van campus Portus.\nJozef zit naast mij tijdens de les informatica."
