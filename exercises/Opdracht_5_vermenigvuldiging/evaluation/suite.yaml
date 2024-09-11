@@ -1,6 +1,6 @@
 - tab: "Opdracht_5"
   testcases:
-    - stdin: 5
-    
-             10
-      stdout: 50
+    - stdin: "5"
+
+             "10"
+      stdout: "50"
