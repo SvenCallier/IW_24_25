@@ -2,5 +2,5 @@
   testcases:
     - stdin: "5"
 
-             "10"
-      stdout: 50
+             "5"
+      stdout: 25
