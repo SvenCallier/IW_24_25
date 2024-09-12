@@ -2,4 +2,4 @@
   testcases:
     - stdin: "23"
 
-      stdout: "73.4"
+      stdout: "23°C is 73.4°F.""
