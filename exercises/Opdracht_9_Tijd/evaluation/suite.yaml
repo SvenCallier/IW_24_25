@@ -1,0 +1,15 @@
+- tab: "Opdracht_9"
+  testcases:
+    - stdin: "5"
+
+             "15"
+
+             "25"
+
+             "5"
+
+             "16"
+
+             "20"
+
+      stdout: "Er liggen 55 seconden tussen beide tijdstippen."
