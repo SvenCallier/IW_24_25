@@ -10,4 +10,4 @@ Python moet je rechstreeks de temperatuur in graden Fahrenheit geven.
 ## Voorbeeld
 Geef de temperatuur in graden in. *23*
 
-73.4
+23.0 °C is 73.4 °F.
