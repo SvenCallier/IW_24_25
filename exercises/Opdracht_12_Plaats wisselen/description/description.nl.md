@@ -11,4 +11,4 @@ Het programa geeft een nieuw getal waarbij de tientallen en de eenheden van plaa
 ## Voorbeeld
 Geef een getal in *123*
 
-132
+132.0
