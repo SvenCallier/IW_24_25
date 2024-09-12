@@ -18,4 +18,4 @@ De snelheid bij neerkomen is 14.007141035914502 m/s.
 
 #### Extra info
 Zoek zelf de nodige gegevens op.
-Gebruik als valversnelling 9,81m/s².
+Gebruik als valversnelling 9,81 m/s².
