@@ -3,3 +3,9 @@
     - stdin: "26"
 
       stdout: "26.0 °C is 299.15 K."
+    - stdin: "37"
+
+      stdout: "37.0 °C is 310.15 K"
+    - stdin: "-20"
+
+      stdout: "-20.0 °C is 253.14999999999998 K."
