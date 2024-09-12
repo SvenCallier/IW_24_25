@@ -2,3 +2,7 @@
   testcases:
     - stdin: "123"
       stdout: "132"
+    - stdin: "456"
+      stdout: "465"
+    - stdin: "367"
+      stdout: "376"
