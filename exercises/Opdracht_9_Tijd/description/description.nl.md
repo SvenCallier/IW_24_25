@@ -5,7 +5,7 @@ Je moet Python te aantal seconden laten berekenen tussen 2 tijdstippen.
 Je zal 2 tijdstippen moeten invoeren. Splits hierbij de uren, minuten en seconden uit.
 
 ## Uitvoer
-Python moet je (met de onderstaande tekst) vertellen hoeveel seconden er tussen beide tijdstippen liggen.
+Python moet je (met de onderstaande tekst) vertellen hoeveel seconden er tussen beide tijdstippen liggen. Tijdstip 2 is logischer wijs later dan tijdstip 1, je kan dit eventueel vermelden aan de gebruiker.
 
 ## Voorbeeld
 Geef het uur van tijdstip 1. *5*

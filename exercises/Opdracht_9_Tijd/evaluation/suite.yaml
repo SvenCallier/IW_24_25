@@ -13,3 +13,29 @@
              20
 
       stdout: "Er liggen 55 seconden tussen beide tijdstippen."
+    - stdin: 12
+
+             23
+
+             45
+
+             13
+
+             44
+
+             23
+
+      stdout: "Er liggen 4838 seconden tussen beide tijdstippen."
+    - stdin: 12
+
+             12
+
+             12
+
+             13
+
+             13
+
+             13
+
+      stdout: "Er liggen 3661 seconden tussen beide tijdstippen."
