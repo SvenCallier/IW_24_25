@@ -1,4 +1,4 @@
 - tab: "Opdracht_12"
   testcases:
     - stdin: "123"
-      stdout: 132.0
+      stdout: "132.0"
