@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 12: Plaats wisselen"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "GYErCKxCgY39a29EucngPZQPzFr-DQvbdtKnsJcDJkSM_x79RB2_iHvzba64XFx6",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
