@@ -1,0 +1,6 @@
+- tab: "Opdracht_10"
+  testcases:
+    - stdin: 5
+      stdout: "4\n9"
+    - stdin: 53
+      stdout: "49.0\n64"
