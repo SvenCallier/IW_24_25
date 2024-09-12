@@ -1,0 +1,4 @@
+- tab: "Opdracht_11"
+  testcases:
+    - stdin: "10"
+      stdout: "De val duurt 1.4278431229270645 s.\nDe snelheid bij neerkomen is 14.007141035914502 m/s."

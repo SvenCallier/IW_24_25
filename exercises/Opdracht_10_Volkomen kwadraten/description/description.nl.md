@@ -1,4 +1,4 @@
-# Volkomen kwadraten
+# Opdracht 10: Volkomen kwadraten
 De gebruiker moet een natuurlijk getal ingeven. Dit getal moet groter zijn dan 1 en is zelf geen volkomen kwadraat. Python geeft hierna de volkomen kwadraten die er het dichtste bij liggen.
 
 ## Invoer
