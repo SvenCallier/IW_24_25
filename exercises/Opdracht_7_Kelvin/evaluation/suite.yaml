@@ -1,0 +1,5 @@
+- tab: "Opdracht_6"
+  testcases:
+    - stdin: "26"
+
+      stdout: "26.0 °C is 299.15 K."
