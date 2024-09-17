@@ -1,8 +1,8 @@
 - tab: "Opdracht_14"
   testcases:
     - stdin: "3.1415"
-      stdout: "'1' is het eerste decimale cijfer van het getal."
+      stdout: ""1" is het eerste decimale cijfer van het getal."
     - stdin: "-22.32"
-      stdout: "'3' is het eerste decimale cijfer van het getal."
+      stdout: ""3" is het eerste decimale cijfer van het getal."
     - stdin: "67.8"
-      stdout: "'8' is het eerste decimale cijfer van het getal."
+      stdout: ""8" is het eerste decimale cijfer van het getal."
