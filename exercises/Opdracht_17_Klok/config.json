@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 16: Banken"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "-I6UrWxKKQ96xHHJ4wp9hSI8F-yz4pUXiCMfguJyHm3V7be6eCAguCBy5svg24q8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
