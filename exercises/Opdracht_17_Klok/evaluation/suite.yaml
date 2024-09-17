@@ -1,20 +1,14 @@
-- tab: "Opdracht_16"
+- tab: "Opdracht_17"
   testcases:
-    - stdin: 22
+    - stdin: 230
+      stdout: "De grote wijzer is dit uur al 240° gedraaid."
 
-             20
+               "Er zijn 40 minuten voorbij."
+    - stdin: 
+      stdout: "De grote wijzer is dit uur al 168° gedraaid."
 
-             21
-      stdout: "Er moeten 32 banken worden aangekocht."
-    - stdin: 5
+               "Er zijn 28 minuten voorbij."
+    - stdin: 123
+      stdout: "De grote wijzer is dit uur al 36° gedraaid."
 
-             7
-
-             15
-      stdout: "Er moeten 15 banken worden aangekocht."
-    - stdin: 10
-
-             222
-
-             3
-      stdout: "Er moeten 118 banken worden aangekocht."
+               "Er zijn 6 minuten voorbij."

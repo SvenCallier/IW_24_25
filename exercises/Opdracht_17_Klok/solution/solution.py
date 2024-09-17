@@ -1,14 +1,11 @@
-invoer1=input("Geef het aantal voor de klas in lokaal 101.")
-invoer2=input("Geef het aantal voor de klas in lokaal 102.")
-invoer3=input("Geef het aantal voor de klas in lokaal 103.")
-klasA=int(invoer1)
-klasB=int(invoer2)
-klasC=int(invoer3)
-
-bankA= klasA//2 + klasA%2
-bankB= klasB//2 + klasB%2
-bankC= klasC//2 + klasC%2
-
-banken = bankA + bankB + bankC
-
-print("Er moeten", banken, "banken worden aangekocht.")
+invoer = input("Geef de stand van de kleine wijzer in.")
+standkw = int(invoer)
+deeluur = standkw%30 / 30
+standgwF = deeluur*360
+standgwD = int(standgwF)
+minF = standgwF / 6
+minD = int(minF)
+afdruk1 = "De grote wijzer is dit uur al "+ str(standgwD) + "° gedraaid."
+afdruk2 = "Er zijn " + str(minD) + " minuten voorbij."
+print(afdruk1)
+print(afdruk2)
