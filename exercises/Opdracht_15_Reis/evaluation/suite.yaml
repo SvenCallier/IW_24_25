@@ -1,4 +1,4 @@
-- tab: "Opdracht_14"
+- tab: "Opdracht_15"
   testcases:
     - stdin: 120
 
@@ -11,4 +11,4 @@
     - stdin: 10
 
              5
-      stdout: "Je komt op dag 1 aan op jouw bestemming"
+      stdout: "Je komt op dag 1 aan op jouw bestemming."
