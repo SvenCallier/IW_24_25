@@ -1,14 +1,8 @@
 - tab: "Opdracht_17"
   testcases:
     - stdin: 230
-      stdout: "De grote wijzer is dit uur al 240° gedraaid."
-
-               "Er zijn 40 minuten voorbij."
+      stdout: "De grote wijzer is dit uur al 240° gedraaid.\nEr zijn 40 minuten voorbij."
     - stdin: 
-      stdout: "De grote wijzer is dit uur al 168° gedraaid."
-
-               "Er zijn 28 minuten voorbij."
+      stdout: "De grote wijzer is dit uur al 168° gedraaid.\nEr zijn 28 minuten voorbij."
     - stdin: 123
-      stdout: "De grote wijzer is dit uur al 36° gedraaid."
-
-               "Er zijn 6 minuten voorbij."
+      stdout: "De grote wijzer is dit uur al 36° gedraaid.\nEr zijn 6 minuten voorbij."
