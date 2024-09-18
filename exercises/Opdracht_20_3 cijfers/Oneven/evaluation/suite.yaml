@@ -7,4 +7,4 @@
     - stdin: "314"
       stdout: "Het getal bestaat uit 3 cijfers."
     - stdin: "1234"
-      stdout: "Het getal bestaat niet uit 3 cijfers"
+      stdout: "Het getal bestaat niet uit 3 cijfers."
