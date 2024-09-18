@@ -1,18 +1,13 @@
-# Opdracht 17: Klokwijzers
-Schrijf een programma dat de positie bepaalt van de grote wijzer, op basis van de positie van de kleine wijzer. Bepaal ook hoeveel minuten er in dat uur reeds voorbij zijn.
+# Opdracht 18: Even / Oneven
+Het programma moet zeggen of het getal even of oneven is.
 
-## Invoer
-Je geeft 1 inputvariabele in: het aantal graden dat de kleine wijzer gedraaid heeft. 12u00 = 0°
+# Invoer
+Je geeft 1 inputvariabele in: een strikt natuurlijk getal.
 
-## Uitvoer
-Python moet je (met de onderstaande tekst) hoek van de grote wijzer en het aantal verstreken minuten vertellen.
+# Uitvoer
+Python antwoordt met een passende tekst.
 
-## Voorbeeld
-Hoeveel graden is de kleine wijzer gedraaid? *318*
+# Voorbeeld
+Geef een getal in. *397*
 
-De grote wijzer is dit uur al 216° gedraaid.
-
-Er zijn 36 minuten voorbij.
-
-#### Opmerking
-12u00 = 0°
+Het getal is oneven.
