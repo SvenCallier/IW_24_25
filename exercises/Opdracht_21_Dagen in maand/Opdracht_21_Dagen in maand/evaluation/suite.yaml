@@ -1,0 +1,8 @@
+- tab: "Opdracht_21"
+  testcases:
+    - stdin: "2"
+      stdout: "28"
+    - stdin: "10"
+      stdout: "31"
+    - stdin: "4"
+      stdout: "30"

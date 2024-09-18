@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 21: Dagen in maand"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "PEF2zV-Gqn4n2-fudmvQEnAXejVFGvTG86EeTnampKWhInbSRHnPncYRdE6pjfKj",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
