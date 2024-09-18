@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 18: Even/Oneven"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "fWfzdumJYGYV3AchnbwxH_5jrCR-rIdanHQ4eEZBpdPDenJHUtSrK8Q7fq3HFVWB",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
