@@ -1,0 +1,10 @@
+- tab: "Opdracht_20"
+  testcases:
+    - stdin: 1
+      stdout: "Het getal bestaat niet uit 3 cijfers."
+    - stdin: 14
+      stdout: "Het getal bestaat niet uit 3 cijfers."
+    - stdin: 314
+      stdout: "Het getal bestaat uit 3 cijfers."
+    - stdin: 1234
+      stdout: "Het getal bestaat niet uit 3 cijfers"

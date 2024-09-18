@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Opdracht 20: 3 cijfers"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "internals": {
+    "token": "iDWv5bcjrfMh_b2M97-6SiQVaHX6tkF4RF2p3XyiQ6Rc6It4r9QnwqbEdPFTbufv",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
