@@ -3,12 +3,12 @@
     - stdin: 23
 
              43
-      stdout: 43
+      stdout: "43"
     - stdin: 123
 
              321
-      stdout: 321
+      stdout: "321"
     - stdin: -12
 
              -24
-      stdout: -12
+      stdout: "-12"
