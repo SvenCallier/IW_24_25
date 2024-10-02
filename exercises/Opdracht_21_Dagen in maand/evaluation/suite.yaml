@@ -1,0 +1,8 @@
+- tab: "Opdracht_18"
+  testcases:
+    - stdin: "23"
+      stdout: "Het getal is oneven."
+    - stdin: "14"
+      stdout: "Het getal is even."
+    - stdin: "-12"
+      stdout: "Het getal is even."

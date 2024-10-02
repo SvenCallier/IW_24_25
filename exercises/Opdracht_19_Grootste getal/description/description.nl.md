@@ -9,7 +9,6 @@ De oplossing wordt als getal afgedrukt.
 
 ## Voorbeeld
 Geef het eerste getal in. *4397*
-
 Geef het tweede getal in. *8917*
 
 8917
